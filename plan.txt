@@ -6,3 +6,5 @@ Do Use Case analysis
 Do implementation
 Testing
 Deployment of finished product
+
+This is the end of the project
