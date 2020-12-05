@@ -2,4 +2,5 @@ Do research
 Read a book
 Conduct the Interview
 Do requirements analysis
+Do Use Case analysis
 Do implementation
